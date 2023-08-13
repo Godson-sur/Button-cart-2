@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+
+.container{
+    height: 270px;
+    width: 400px;
+    background-color: #fff;
+}
+
+a{
+    font-size: 25px;
+    color: rgb(0, 113, 133);
+    margin-left: 10px;
+    
+}
+
+h1{
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    color: rgb(0,118,0);
+   
+}
+h3{
+    margin-left: 10px;
+}
+
+.bt-1{
+    margin-left: 10px;
+    width: 120px;
+    height: 34px;
+    background-color: rgb(255,216,20);
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.bt-2{
+    width: 120px;
+    height: 34px;
+    background-color: rgb(255,164,28);
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
